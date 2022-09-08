@@ -25,7 +25,7 @@ This R file demonstrates the DEV analysis applied in the following three dataset
  (3) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L)
 
 ###############################################
-# Terms of Use for the dataset (1) & (2)
+# Terms of Use for the empirical dataset (1) & (2)
   I.   You must acknowledge the use of content.
   
   II.  Monitoring data is made available for use in activities of a non-profit nature only.
