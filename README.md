@@ -1,5 +1,4 @@
-###############################################
-#The supplementary materials R script for the scientific research entitled, " Anticipating the occurrence and type of critical transitions"
+The supplementary materials R script for the scientific research entitled, " Anticipating the occurrence and type of critical transitions"
 
 #Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Hess, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
 
