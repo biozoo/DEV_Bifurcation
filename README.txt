@@ -14,6 +14,7 @@ Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Mark
 #  2. Save each set of the results.
 #  3. Average across all results associated with the same time step.
 #  4. Plot the averaged results instead of the results based on one replicate as shown in this file.
+#  The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can be downloaded via the following link: https://github.com/cran/rEDM/releases/tag/1.2.3
 
 ###############################################
 # Note for analyzing empirical dataset:
