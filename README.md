@@ -32,7 +32,5 @@ This R file demonstrates the DEV analysis applied in the following three dataset
   
   III. Users must contact the database administrator: 
       (1) Dr. Isao Tokuda (voice data; isao@fc.ritsumei.ac.jp)
-      
       (2) Dr. Markus Schwarzlander (cellular ATP data; markus.schwarzlander@uni-muenster.de)
-      
-      before using the dataset for any publications, including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. Co-authorship may be required for some publications depending on the way the time series data is to be used.
+before using the dataset for any publications, including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. Co-authorship may be required for some publications depending on the way the time series data is to be used.
