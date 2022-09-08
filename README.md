@@ -15,7 +15,7 @@ To obtain the results presented in the main text, the R-file can be easily modif
 4. Plot the averaged results instead of the results based on one replicate as shown in this file.
 
 ###############################################
-# Note for analysing synthetic dataset:
+# Note for analysing empirical dataset:
 This R file demonstrates the DEV analysis applied in the following three datasets (Fig. 2D-L)
 
  (1) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F) 
@@ -25,7 +25,7 @@ This R file demonstrates the DEV analysis applied in the following three dataset
  (3) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L)
 
 ###############################################
-# Terms of Use for the empirical dataset (1) & (2)
+# Terms of Use for empirical dataset (1) & (2)
   I.   You must acknowledge the use of content.
   
   II.  Monitoring data is made available for use in activities of a non-profit nature only.
