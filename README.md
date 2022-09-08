@@ -8,7 +8,7 @@ The supplementary materials R script for the scientific research entitled, " Ant
 # Note for analysing synthetic dataset:
 To significantly reduce the computation time running the analysis including 100 replicates, the analyses presented in the R code for producing Fig. 1, 3, and S14 are based on one time series replicate per mathematical model. Due to process noise (as well as observation error), the DEV results produced from analyzing one replicate look more variable and change less smoothly. However, the findings based on analyzing one replicate still reveal the same dynamical behaviours qualitatively (e.g., increasing trend of |DEV|) and quantitatively (e.g., |DEV|->1 at the bifurcation point).
 
-# To obtain the results presented in the main text, the R-file can be easily modified in four steps:
+To obtain the results presented in the main text, the R-file can be easily modified in four steps:
 1. Calculate all results of this R-file 100 times.
 2. Save each set of the results.
 3. Average across all results associated with the same time step.
