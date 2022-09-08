@@ -24,7 +24,7 @@ This R file demonstrates the DEV analysis applied in the following three dataset
   I.   You must acknowledge the use of content.
   II.  Monitoring data is made available for use in activities of a non-profit nature only.
   III. Users must contact the database administrator: 
-      (1) Dr. Isao Tokuda (voice data; isao@fc.ritsumei.ac.jp) for voice data
-      (2) Dr. Markus Schwarzlander (cellular ATP data; markus.schwarzlander@uni-muenster.de) for cellular ATP data
+      (1) Dr. Isao Tokuda (voice data; isao@fc.ritsumei.ac.jp)\t
+      (2) Dr. Markus Schwarzlander (cellular ATP data; markus.schwarzlander@uni-muenster.de)\t
       before using the dataset for any publications, including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. Co-authorship may be required for some publications depending on the way the time series data is to be used.
 ###############################################
