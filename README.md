@@ -14,6 +14,8 @@ To obtain the results presented in the main text, the R-file can be easily modif
 3. Average across all results associated with the same time step.
 4. Plot the averaged results instead of the results based on one replicate as shown in this file.
 
+The EDM analysis in all R files are based on rEDM packge (ver 1.2.3) that can be downloaded from the following link: https://github.com/cran/rEDM/releases/tag/1.2.3
+
 ###############################################
 # Note for analyzing empirical dataset:
 This R file demonstrates the DEV analysis applied in the following three datasets (Fig. 2D-L)
