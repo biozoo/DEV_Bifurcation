@@ -1,5 +1,6 @@
 #The supplementary materials R script for the scientific research entitled, " Anticipating the occurrence and type of critical transitions"
-Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Hess, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
+#Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Hess, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
+
 +Equal contribution; *Correspondence to: Arndt Telschow (telschow@uni-muenster.de) and Chih-hao Hsieh (chsieh@ntu.edu.tw)
 
 ###############################################
@@ -27,4 +28,3 @@ This R file demonstrates the DEV analysis applied in the following three dataset
       (1) Dr. Isao Tokuda (voice data; isao@fc.ritsumei.ac.jp)\n
       (2) Dr. Markus Schwarzlander (cellular ATP data; markus.schwarzlander@uni-muenster.de)\n
       before using the dataset for any publications, including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. Co-authorship may be required for some publications depending on the way the time series data is to be used.
-###############################################
