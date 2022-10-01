@@ -20,12 +20,12 @@ The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can b
 # Note for analyzing empirical dataset:
 
    This R file demonstrates the DEV analysis applied in the following five datasets (Fig. 2A-O)
-   (1) Microcosm experiment data provided by Dr. Egbert H. van Nes (Fig. 2A-C). 
+   (1) Microcosm experiment data provided by Dr. Egbert H. van Nes (Fig. 2A-C; microcosm.txt). 
        The complete dataset analyzed in the original paper (Veraart et al. 2012 Nature) has been published on online DANS repository, doi:10.17026/dans-ztg-93aw 
-   (2) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F) 
-   (3) Cellular ATP experiment data are offered by Dr. Markus Schwarzlander (Fig. 2G-I)
-   (4) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L)
-   (5) Frequency data provided by Bonneville Power Administration.
+   (2) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F; voice.txt) 
+   (3) Cellular ATP experiment data are offered by Dr. Markus Schwarzlander (Fig. 2G-I; mitochondria.txt)
+   (4) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L; climate.txt)
+   (5) Frequency data provided by Bonneville Power Administration (Fig. 2M-O; blackout.txt).
    
 ###############################################
 # Terms of Use for empirical dataset
