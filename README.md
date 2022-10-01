@@ -32,8 +32,8 @@ The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can b
 ###############################################
  Terms of Use for empirical dataset
  
- I.   You must acknowledge the use of content.
- II.  Monitoring data is made available for use in activities of a non-profit nature only.
- III. Users must contact the database administrator listed in Table S2 before using the dataset for any publications, 
+ (I)   You must acknowledge the use of content.
+ (II)  Monitoring data is made available for use in activities of a non-profit nature only.
+ (III) Users must contact the database administrator listed in Table S2 before using the dataset for any publications, 
       including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. 
       Co-authorship may be required for some publications depending on the way the time series data is to be used.
