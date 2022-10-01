@@ -30,7 +30,7 @@ The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can b
    (5) Frequency data provided by Bonneville Power Administration.
    
 ###############################################
- Terms of Use for empirical dataset
+# Terms of Use for empirical dataset
  
  (I)   You must acknowledge the use of content.
  (II)  Monitoring data is made available for use in activities of a non-profit nature only.
