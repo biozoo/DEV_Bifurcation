@@ -18,21 +18,20 @@ The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can b
 
 ###############################################
 # Note for analyzing empirical dataset:
-This R file demonstrates the DEV analysis applied in the following three datasets (Fig. 2D-L)
-
- (1) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F) 
- 
- (2) Cellular ATP experiment data are offered by Dr. Markus Schwarzlander (Fig. 2G-I)
- 
- (3) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L)
-
+   This R file demonstrates the DEV analysis applied in the following five datasets (Fig. 2A-O)
+   (1) Microcosm experiment data provided by Dr. Egbert H. van Nes (Fig. 2A-C). 
+       The complete dataset analyzed in the original paper (Veraart et al. 2012 Nature) has been published on online DANS repository, doi:10.17026/dans-ztg-93aw 
+   (2) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F) 
+   (3) Cellular ATP experiment data are offered by Dr. Markus Schwarzlander (Fig. 2G-I)
+   (4) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, 
+       National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). 
+       This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L)
+   (5) Frequency data provided by Bonneville Power Administration.
+   
 ###############################################
-# Terms of Use for empirical dataset (1) & (2)
-  I.   You must acknowledge the use of content.
-  
-  II.  Monitoring data is made available for use in activities of a non-profit nature only.
-  
-  III. Users must contact the database administrator: 
-      (1) Dr. Isao Tokuda (voice data; isao@fc.ritsumei.ac.jp)
-      (2) Dr. Markus Schwarzlander (cellular ATP data; markus.schwarzlander@uni-muenster.de)
-before using the dataset for any publications, including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. Co-authorship may be required for some publications depending on the way the time series data is to be used.
+ Terms of Use for empirical dataset (1) & (2)
+ I.   You must acknowledge the use of content.
+ II.  Monitoring data is made available for use in activities of a non-profit nature only.
+ III. Users must contact the database administrator listed in Table S2 before using the dataset for any publications, 
+      including conference presentations as well as handouts and presentation materials for meetings such as committees and councils. 
+      Co-authorship may be required for some publications depending on the way the time series data is to be used.
