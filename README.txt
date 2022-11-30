@@ -1,5 +1,5 @@
 Datasets and documentation of all analytical procedures from a scientific paper, Anticipating the occurrence and type of critical transitions, that will be formally published in Science Advances.
-Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Heßler, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
+Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Oliver Kamps, Martin Heßler, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
 +Equal contribution; *Correspondence to: Arndt Telschow (telschow@uni-muenster.de) and Chih-hao Hsieh (chsieh@ntu.edu.tw)
 
 ###############################################
