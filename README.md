@@ -1,6 +1,6 @@
 The supplementary materials R script for the scientific research entitled, " Anticipating the occurrence and type of critical transitions"
 
-Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Hess, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
+Authors: Florian Grziwotz+, Chun-Wei Chang+, Vasilis Dakos, Egbert van Nes, Markus Schwarzländer, Martin Heßler, Oliver Kamps, Isao Tokuda, Arndt Telschow*, Chih-hao Hsieh*
 
 +Equal contribution; *Correspondence to: Arndt Telschow (telschow@uni-muenster.de) and Chih-hao Hsieh (chsieh@ntu.edu.tw)
 
@@ -23,7 +23,7 @@ The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can b
    (1) Microcosm experiment data provided by Dr. Egbert H. van Nes (Fig. 2A-C; microcosm.txt). 
        The complete dataset analyzed in the original paper (Veraart et al. 2012 Nature) has been published on online DANS repository, doi:10.17026/dans-ztg-93aw 
    (2) Voice experiment data are provided by Dr. Isao Tokuda (Fig. 2D-F; voice.txt) 
-   (3) Cellular ATP experiment data are offered by Dr. Markus Schwarzlander (Fig. 2G-I; mitochondria.txt)
+   (3) Cellular ATP experiment data are offered by Dr. Markus Schwarzländer (Fig. 2G-I; mitochondria.txt)
    (4) Greenhouse earth climate data is publicly available and were downloaded from the World Data Center for Paleoclimatology, National Geophysical Data Center, Boulder, Colorado (http:// www.ncdc.noaa.gov/paleo/data.html). This dataset has also been used for computing the other EWS in a previous study (Dakos et al. PNAS 2008)(Fig. 2J-L; climate.txt)
    (5) Frequency data provided by Bonneville Power Administration (Fig. 2M-O; blackout.txt).
    
