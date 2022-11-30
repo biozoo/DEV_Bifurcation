@@ -1,7 +1,7 @@
 ########################################################
 # Important Note:
 #  Datasets and documentation of all analytical procedures from a scientific paper, 
-#  Anticipating the occurrence and type of critical transitions, that will be formally published in Science Advances.
+#  "Anticipating the occurrence and type of critical transitions", that will be formally published in Science Advances.
 #
 #   This R file demonstrates the DEV analysis applied in the following five datasets (Fig. 2A-O)
 #   (1) Microcosm experiment data provided by Dr. Egbert H. van Nes (Fig. 2A-C; microcosm.txt). 
