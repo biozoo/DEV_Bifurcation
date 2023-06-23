@@ -36,3 +36,4 @@ To obtain the results presented in the main text, the R-file can be easily modif
 4. Plot the averaged results instead of the results based on one replicate as shown in this file.
 
 The EDM analysis in all R files are based on rEDM package (ver 1.2.3) that can be downloaded via the following link: https://github.com/cran/rEDM/releases/tag/1.2.3
+We noticed the inconsistency of some input-output arguments between this 1.2.3 version versus newer versions of rEDM. Please use the 1.2.3 version for reproducibility.
